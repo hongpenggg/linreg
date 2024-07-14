@@ -22,4 +22,4 @@ c.plot()
 
 The line of best fit should open in a separate matplotlib window.
 
-The Windows executable can be downloaded at: [https://drive.google.com/file/d/1yihwD3MzIbgoT_WVLPIG69XFGh48OYAp/view?usp=sharing](url)
+The Windows executable can be downloaded at: [https://drive.google.com/file/d/1yihwD3MzIbgoT_WVLPIG69XFGh48OYAp/view?usp=sharing](https://drive.google.com/file/d/1yihwD3MzIbgoT_WVLPIG69XFGh48OYAp/view?usp=sharing/)
