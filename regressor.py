@@ -133,7 +133,7 @@ def main():
 
     enter = True  # boolean flag to let user continuously enter all data
     while enter != False:
-        pt = input('Enter a point in the form (x,y): ')
+        pt = input('Enter a point in the form "(x,y)": ')
 
         if pt == '0':  # exit code
             enter = False
